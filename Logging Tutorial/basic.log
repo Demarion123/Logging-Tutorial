@@ -1,0 +1,8 @@
+2024-05-07 13:58:00 INFO this message is an info message.
+2024-05-07 13:58:00 WARNING this message is a warning message.
+2024-05-07 13:58:00 ERROR this message is an error message.
+2024-05-07 13:58:00 CRITICAL this message is a critical message.
+2024-05-07 13:59:49 INFO this message is an info message.
+2024-05-07 13:59:49 WARNING this message is a warning message.
+2024-05-07 13:59:49 ERROR this message is an error message.
+2024-05-07 13:59:49 CRITICAL this message is a critical message.
